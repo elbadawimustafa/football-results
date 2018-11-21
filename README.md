@@ -1,2 +1,2 @@
 # football-results
-football results api developed in go
+Premier League results api developed in go
